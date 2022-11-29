@@ -1,0 +1,12 @@
+.container{
+    background-color: rgb(32, 35, 41);
+    position: relative;
+    display: flex;
+    padding: 2.5rem;
+    flex-wrap: wrap;
+}
+
+.ul{
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,13 @@
+.filter-container {
+  background-color: rgb(32, 35, 41);
+  text-align: center;
+  position: relative;
+}
+
+.input {
+  font-size: medium;
+  height: 3rem;
+  width: 23%;
+  margin-top: 1rem;
+  position: relative;
+}
