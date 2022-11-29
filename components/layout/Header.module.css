@@ -7,7 +7,7 @@
 }
 
 .title {
-  font-size: 6.5rem;
+  font-size: 6rem;
   text-align: center;
   font-weight: 900;
   position: relative;
@@ -18,7 +18,7 @@
   background-image: url("../Assets/AvivInTheBackgroundOfRickAndMorty.jpeg");
   position: fixed;
   opacity: 0.2;
-  top: -3.25rem;
+  /* top: 0rem; */
   height: 70%;
   width: 140%;
   background-size: 60% 120%;
