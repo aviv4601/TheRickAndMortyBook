@@ -19,7 +19,7 @@
   position: fixed;
   opacity: 0.2;
   top: -3rem;
-  height: 75%;
+  height: 77%;
   width: 140%;
   background-size: 60% 120%;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@
     justify-content: center;
   }
   .title {
-    font-size: 3rem;
+    font-size: 4rem;
     text-align: center;
     top: 4rem;
     font-weight: 900;
@@ -50,10 +50,11 @@
     background-image: url("../Assets/AvivInTheBackgroundOfRickAndMorty.jpeg");
     position: fixed;
     opacity: 0.4;
-    height: 50%;
+    height: 60%;
     width: 200%;
     background-size: 60% 120%;
     background-repeat: no-repeat;
     background-position: center;
+    background-position-x: center;
   }
 }
