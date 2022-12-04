@@ -12,3 +12,9 @@
   left: 0rem;
   color: white;
 }
+
+@media (max-width: 450px) {
+  .card {
+    width: 100%;
+  }
+}

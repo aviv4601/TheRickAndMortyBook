@@ -44,10 +44,7 @@ function HomePage({ data }) {
   return (
     <Fragment>
       <title>The Rick And Morty Book</title>
-      <meta
-        name="description"
-        content="Browse a huge list of Rick and Morty figures!"
-      />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <Header></Header>
       <SearchBar
         figures={figures}
